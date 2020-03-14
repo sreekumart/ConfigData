@@ -1,12 +1,12 @@
 splunk:
-  host:abc@g.com
-  port:8080
-  username:maestro
-  password:meastro
-  earliest_time:20m
-  latest_time:now
+  host: abc@g.com
+  port: 8080
+  username: maestro
+  password: meastro
+  earliest_time: 20m
+  latest_time: now
   
 email:
-  host:mail.abc
-  port:25
+  host: mail.abc
+  port: 25
   
