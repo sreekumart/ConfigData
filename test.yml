@@ -1,7 +1,7 @@
 splunk:
   host: abc@g.com
   port: 8080
-  usernames: maestro
+  username: maestro
   password: meastro
   earliest_time: 20m
   latest_time: now
