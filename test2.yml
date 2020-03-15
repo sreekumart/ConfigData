@@ -1,7 +1,28 @@
+splunk:
+  host: len-sh01.jcpenney.com
+  port: 8089
+  username: 
+  password:
+  earliest_time:
+  latest_time:
 
-name=sreekumar@test.com
-password=iloveyoushonu
+email:
+  imap:
+    server: outlook.office365.com
+    port: 993
+  smtp:
+    server: 
+    port: 25
+  username: 
+  password: 
+  folder: INBOX/Monitoring
+  subject:
+  from: 
+  alert_time_period_in_minutes: 
+  to_receipients:
+  cc_receipients: 
+  sender: 
+  mail_scan_time: 240
 
-[SPLUNKPROPRTIES]
-port=80
-server=dropit
+report:
+  file_name: report.xls
