@@ -2,7 +2,7 @@ splunk:
   host: len-sh01.jcpenney.com
   port: 8089
   username:
-  password:
+  password: {cipher}
   earliest_time:
   latest_time:
 
